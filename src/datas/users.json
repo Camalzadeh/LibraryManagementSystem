@@ -1,0 +1,104 @@
+{
+  "7510eaa5" : {
+    "userId" : "7510eaa5",
+    "name" : "1",
+    "phone" : "0123456789",
+    "address" : "Baku",
+    "email" : "h@gmail.com",
+    "password" : "1",
+    "userRole" : "LIBRARIAN",
+    "favoriteBooks" : [ ],
+    "reservedBooks" : [ ]
+  },
+  "d3f4g5h6" : {
+    "userId" : "d3f4g5h6",
+    "name" : "Charlie",
+    "phone" : "1112223333",
+    "address" : "Los Angeles",
+    "email" : "charlie@gmail.com",
+    "password" : "charliepass",
+    "userRole" : "LIBRARIAN",
+    "favoriteBooks" : [ ],
+    "reservedBooks" : [ ]
+  },
+  "c8e9f1a2" : {
+    "userId" : "c8e9f1a2",
+    "name" : "Bob",
+    "phone" : "0987654321",
+    "address" : "San Francisco",
+    "email" : "bob@gmail.com",
+    "password" : "bobpass",
+    "userRole" : "MEMBER",
+    "favoriteBooks" : [ ],
+    "reservedBooks" : [ ]
+  },
+  "ac36ba95" : {
+    "userId" : "ac36ba95",
+    "name" : "Sadiq",
+    "phone" : "0000000000",
+    "address" : "Qaracuxur",
+    "email" : "s@gmail.com",
+    "password" : "sadiq1234",
+    "userRole" : "MEMBER",
+    "favoriteBooks" : [ {
+      "bookId" : "e5466bf4",
+      "title" : "salam",
+      "author" : "salam",
+      "genre" : "FICTION",
+      "publicationDate" : "1234-12-12",
+      "isAvailable" : true
+    } ],
+    "reservedBooks" : [ {
+      "bookId" : "m3n4o5p6",
+      "title" : "History",
+      "author" : "Herodotus",
+      "genre" : "ART",
+      "publicationDate" : "2019-03-22",
+      "isAvailable" : false
+    } ]
+  },
+  "g1h2i3j4" : {
+    "userId" : "g1h2i3j4",
+    "name" : "Frank",
+    "phone" : "0001112222",
+    "address" : "Houston",
+    "email" : "frank@gmail.com",
+    "password" : "frankpass",
+    "userRole" : "MEMBER",
+    "favoriteBooks" : [ ],
+    "reservedBooks" : [ ]
+  },
+  "f9g0h1i2" : {
+    "userId" : "f9g0h1i2",
+    "name" : "Eva",
+    "phone" : "7778889999",
+    "address" : "Miami",
+    "email" : "eva@gmail.com",
+    "password" : "evapass",
+    "userRole" : "LIBRARIAN",
+    "favoriteBooks" : [ ],
+    "reservedBooks" : [ ]
+  },
+  "b7d6f8e4" : {
+    "userId" : "b7d6f8e4",
+    "name" : "Alice",
+    "phone" : "1234567890",
+    "address" : "New York",
+    "email" : "alice@gmail.com",
+    "password" : "alicepass",
+    "userRole" : "MEMBER",
+    "favoriteBooks" : [ ],
+    "reservedBooks" : [ ]
+  },
+  "e7f8g9h0" : {
+    "userId" : "e7f8g9h0",
+    "name" : "David",
+    "phone" : "4445556666",
+    "address" : "Chicago",
+    "email" : "david@gmail.com",
+    "password" : "davidpass",
+    "userRole" : "MEMBER",
+    "favoriteBooks" : [ ],
+    "reservedBooks" : [ ]
+  }
+}

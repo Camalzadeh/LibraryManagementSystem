@@ -1,0 +1,10 @@
+{
+  "bdf6a30a" : {
+    "transactionId" : "bdf6a30a",
+    "userId" : "ac36ba95",
+    "bookId" : "ddb6451d",
+    "borrowDate" : "2024-06-02",
+    "returnDate" : "2024-07-01",
+    "transactionType" : "RETURN"
+  }
+}

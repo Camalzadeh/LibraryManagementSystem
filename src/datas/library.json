@@ -1,0 +1,50 @@
+{
+  "e5466bf4" : {
+    "bookId" : "e5466bf4",
+    "title" : "salam",
+    "author" : "salam",
+    "genre" : "FICTION",
+    "publicationDate" : "1234-12-12",
+    "isAvailable" : true
+  },
+  "i9j0k1l2" : {
+    "bookId" : "i9j0k1l2",
+    "title" : "Biology",
+    "author" : "Darwin",
+    "genre" : "NONFICTION",
+    "publicationDate" : "2021-09-12",
+    "isAvailable" : true
+  },
+  "e5f6g7h8" : {
+    "bookId" : "e5f6g7h8",
+    "title" : "Chemistry",
+    "author" : "Curie",
+    "genre" : "SCIENCE",
+    "publicationDate" : "2023-07-30",
+    "isAvailable" : false
+  },
+  "ddb6451d" : {
+    "bookId" : "ddb6451d",
+    "title" : "Mathematics",
+    "author" : "Camalzadeh",
+    "genre" : "SCIENCE",
+    "publicationDate" : "2024-12-24",
+    "isAvailable" : true
+  },
+  "a3b2c1d4" : {
+    "bookId" : "a3b2c1d4",
+    "title" : "Physics",
+    "author" : "Newton",
+    "genre" : "FICTION",
+    "publicationDate" : "2022-05-16",
+    "isAvailable" : true
+  },
+  "m3n4o5p6" : {
+    "bookId" : "m3n4o5p6",
+    "title" : "History",
+    "author" : "Herodotus",
+    "genre" : "ART",
+    "publicationDate" : "2019-03-22",
+    "isAvailable" : false
+  }
+}
